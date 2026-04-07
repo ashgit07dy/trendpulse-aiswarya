@@ -1,0 +1,42 @@
+post_id,title,category,score,num_comments,author,collected_at
+47672818,Are We Idiocracy Yet?,technology,233,89,jdiiufccuskal,2026-04-07 05:07:39
+47673005,We found an undocumented bug in the Apollo 11 guidance computer code,technology,37,8,henrygarner,2026-04-07 05:07:41
+47672295,Every GPU That Mattered,technology,120,60,jonbaer,2026-04-07 05:07:43
+47672318,Blackholing My Email,technology,27,0,semyonsh,2026-04-07 05:07:45
+47614528,My Experience as a Rice Farmer,technology,190,81,surprisetalk,2026-04-07 05:07:46
+47672884,Identify a London Underground Line just by listening to it,technology,28,4,nelson687,2026-04-07 05:07:48
+47673072,Germany Power Prices Turn Deeply Negative on Renewables Surge,technology,29,20,rustoo,2026-04-07 05:07:52
+47659135,Sam Altman may control our future – can he be trusted?,technology,1504,614,adrianhon,2026-04-07 05:07:57
+47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,technology,1145,630,StanAngeloff,2026-04-07 05:08:00
+47669337,Solod – A subset of Go that translates to C,technology,141,36,TheWiggles,2026-04-07 05:08:02
+47626242,Second Revision of 6502 Laptop,technology,57,7,uticus,2026-04-07 05:08:03
+47663147,Launch HN: Freestyle – Sandboxes for Coding Agents,technology,290,147,benswerd,2026-04-07 05:08:05
+47662234,A cryptography engineer's perspective on quantum computing timelines,technology,496,199,thadt,2026-04-07 05:08:06
+47641472,Floating point from scratch: Hard Mode,technology,14,1,random__duck,2026-04-07 05:08:08
+47667321,Peptides: where to begin?,technology,186,226,A_D_E_P_T,2026-04-07 05:08:09
+47641528,Apollo Guidance Computer restoration videos,technology,69,9,mariuz,2026-04-07 05:08:12
+47662596,AI singer now occupies eleven spots on iTunes singles chart,technology,203,306,flinner,2026-04-07 05:08:16
+47660286,What being ripped off taught me,technology,422,209,doctorhandshake,2026-04-07 05:08:18
+47637010,The Last Quiet Thing,technology,244,130,coinfused,2026-04-07 05:08:21
+47667672,"Show HN: Hippo, biologically inspired memory for AI agents",technology,109,22,kitfunso,2026-04-07 05:08:25
+47662116,Sky – an Elm-inspired language that compiles to Go,technology,173,69,whalesalad,2026-04-07 05:08:27
+47667717,Anthropic expands partnership with Google and Broadcom for next-gen compute,technology,255,117,l1n,2026-04-07 05:08:28
+47627998,VOID: Video Object and Interaction Deletion,technology,165,51,bobsoap,2026-04-07 05:08:29
+47669749,Dear Heroku: Uhh What's Going On?,technology,77,31,crcastle,2026-04-07 05:08:32
+47670981,"Three hundred synths, 3 hardware projects, and one app",worldnews,58,2,ductionist,2026-04-07 05:08:50
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,309,154,Bender,2026-04-07 05:09:06
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,288,82,player_piano,2026-04-07 05:09:08
+47642125,Linux extreme performance H1 load generator,worldnews,22,11,MDA2AV,2026-04-07 05:09:26
+47671527,Some iPhone Apps Receive Mysterious Update 'From Apple',worldnews,62,18,tosh,2026-04-07 05:09:29
+47647397,Build web apps for smart glasses,worldnews,8,5,mozz100,2026-04-07 05:09:32
+47664912,The cult of vibe coding is dogfooding run amok,worldnews,572,463,drob518,2026-04-07 05:09:33
+47672778,Breaking the console: a brief history of video game security,sports,13,2,sprado,2026-04-07 05:09:46
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,499,140,akyuu,2026-04-07 05:10:33
+47665245,Agent Reading Test,sports,64,17,kaycebasques,2026-04-07 05:10:41
+47627217,Running Out of Disk Space in Production,science,7,0,romes,2026-04-07 05:11:02
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,7,0,sam-bee,2026-04-07 05:12:00
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,405,180,MattHart88,2026-04-07 05:12:05
+47638498,Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11,entertainment,18,7,fsloth,2026-04-07 05:12:22
+47660853,Book review: There Is No Antimemetics Division,entertainment,263,188,ibobev,2026-04-07 05:12:32
+47636579,Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V,entertainment,91,25,noone_youknow,2026-04-07 05:12:36
+47637828,Show HN: Tusk for macOS and Gnome,entertainment,104,34,factorialboy,2026-04-07 05:12:47
